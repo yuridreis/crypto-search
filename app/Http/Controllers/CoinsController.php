@@ -17,8 +17,8 @@ class CoinsController extends Controller
 
     /* Salva o valor da moeda no db e retorna ela */
     public function getCoinPrice(Request $request) {
-
-        $value = $this->requestCoinPrice($request->name, $request->date);
+        date_default_timezone_set('America/Sao_Paulo');
+        $value = $this->requestCoinPrice($request->name, date('d-m-Y'));
         
         $this->coin->name = $request->name;
         $this->coin->date = date('d-m-Y');
