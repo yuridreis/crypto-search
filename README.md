@@ -24,7 +24,7 @@ Exemplo de requisição:
 
 2- Endpoint de busca do valor da criptomoeda em uma data específica "coin_price_date"
 
-Exemplo de nomes: "bitcoin", 
+Exemplo de nomes: "bitcoin", "ethereum", "cosmos" e "lunadoge".
 
 Exemplo de data: "11-08-2022"
 
@@ -58,6 +58,6 @@ Inicializar o servidor
 php artisan serve
 ```
 
-O servidor estará aberto para requisições http na url http://127.0.0.1:8000/coin_price
+O servidor estará aberto para requisições http na url http://127.0.0.1:8000/
 
 
