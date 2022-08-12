@@ -1,6 +1,6 @@
 # Aplicação de Busca de valor de criptomoedas
 
-Essa aplicação disponibiliza dois endpoints para busca do valor atual ou de uma data específica de uma cripitomeoda.
+Essa aplicação disponibiliza dois endpoints para busca do valor de uma criptomoeda atualmente ou de uma data específica.
 
 ## O servidor está disponível para requisições pela url
 
