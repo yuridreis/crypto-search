@@ -10,6 +10,8 @@ https://crypto-search-rp.herokuapp.com/
 
 1- Endpoint de busca do valor da criptomoeda na data atual "/coin_price"
 
+https://crypto-search-rp.herokuapp.com/coin_price
+
 O corpo da requisição espera o nome/codigo da criptomoeda.
 
 Exemplo de nomes: "bitcoin", 
@@ -23,6 +25,8 @@ Exemplo de requisição:
 ```
 
 2- Endpoint de busca do valor da criptomoeda em uma data específica "/coin_price_date"
+
+https://crypto-search-rp.herokuapp.com/coin_price_date
 
 Exemplo de nomes: "bitcoin", "ethereum", "cosmos" e "lunadoge".
 
