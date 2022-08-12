@@ -4,7 +4,7 @@ Essa aplicação disponibiliza dois endpoints para busca do valor atual ou de um
 
 ## O servidor está disponível para requisições pela url
 
-heroku url
+https://crypto-search-rp.herokuapp.com/
 
 ## Endpoints
 
@@ -22,7 +22,7 @@ Exemplo de requisição:
 }
 ```
 
-2- Endpoint de busca do valor da criptomoeda em uma data específica "coin_price_date"
+2- Endpoint de busca do valor da criptomoeda em uma data específica "/coin_price_date"
 
 Exemplo de nomes: "bitcoin", "ethereum", "cosmos" e "lunadoge".
 
