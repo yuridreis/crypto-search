@@ -14,7 +14,7 @@ https://crypto-search-rp.herokuapp.com/coin_price
 
 O corpo da requisição espera o nome/codigo da criptomoeda.
 
-Exemplo de nomes: "bitcoin", 
+Exemplo de nomes: "bitcoin", "ethereum", "cosmos" e "lunadoge".
 
 Exemplo de requisição:
 
